@@ -1,0 +1,3 @@
+/Users/lolaueda/Downloads/SnakeOpenGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lolaueda/Downloads/SnakeOpenGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lolaueda/Downloads/SnakeOpenGL/cmake-build-debug/CMakeFiles/SnakeOpenGL.dir
